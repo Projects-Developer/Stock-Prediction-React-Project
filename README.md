@@ -1,4 +1,4 @@
-# Stock-Prediction-React-Project
+# Stock Prediction React Project
 Stock Prediction React Project Code, Document And Vidoe Tutorial
 
 ![React Stock Prediction ](https://github.com/user-attachments/assets/d6099010-8caf-4218-bf9d-bfa4e4bde944)
